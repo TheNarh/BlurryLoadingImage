@@ -1,2 +1,2 @@
 # BlurryLoadingImage
-A simple project made with html, caa and javascript
+A simple project made with html, css and javascript
